@@ -66,8 +66,10 @@ This project demonstrates the ability to:
 
 ## Business Recommendations
 
-- Reduce excessive discounting to improve profit margins  
-- Focus on high-performing sub-categories such as Phones and Chairs  
-- Investigate and optimize loss-making products  
-- Strengthen performance in underperforming regions like Central  
-- Leverage the Consumer segment for targeted growth strategies  
+## Business Recommendations
+
+- Reduce excessive discounting, as higher discounts are linked to lower profitability  
+- Focus on strong-performing sub-categories like Phones and Chairs  
+- Investigate products that generate high sales but low or negative profit  
+- Improve performance in weaker regions such as Central  
+- Target the Consumer segment for growth opportunities  
