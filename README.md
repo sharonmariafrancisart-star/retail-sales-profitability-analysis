@@ -4,14 +4,14 @@ This project analyzes a retail dataset to identify key drivers of sales, custome
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 - **MySQL** — Data cleaning, transformation, and validation  
 - **Power BI** — Interactive dashboard development  
 - **DAX** — Calculated measures and KPIs  
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### 🔹 Sales Overview
 - KPIs: Total Sales, Total Profit, Profit Margin, Number of Orders  
@@ -31,7 +31,7 @@ This project analyzes a retail dataset to identify key drivers of sales, custome
 
 ---
 
-## 🔍 Key Business Insights
+## Key Business Insights
 
 - **Higher discounts are strongly associated with lower profitability**, indicating potential over-discounting strategies  
 - **Several high-revenue products generate low or negative profit**, highlighting inefficiencies in pricing or cost structure  
@@ -41,20 +41,20 @@ This project analyzes a retail dataset to identify key drivers of sales, custome
 
 ---
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
-### 📍 Sales Overview
+### Sales Overview
 ![Sales Overview](./screenshots/sales_overview.png)
 
-### 📍 Customer & Product Analysis
+###  Customer & Product Analysis
 ![Customer Product](./screenshots/customer_product.png)
 
-### 📍 Profitability Analysis
+### Profitability Analysis
 ![Profitability](./screenshots/profitability.png)
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 This project demonstrates the ability to:
 - Build an end-to-end data workflow from raw data to insights  
@@ -64,7 +64,7 @@ This project demonstrates the ability to:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Reduce excessive discounting to improve profit margins  
 - Focus on high-performing sub-categories such as Phones and Chairs  
