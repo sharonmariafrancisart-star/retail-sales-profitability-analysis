@@ -7,7 +7,8 @@ This project analyzes a retail dataset to identify key drivers of sales, custome
 ## Tools & Technologies
 - **MySQL** — Data cleaning, transformation, and validation  
 - **Power BI** — Interactive dashboard development  
-- **DAX** — Calculated measures and KPIs  
+- **DAX** — Calculated measures and KPIs
+- - **Python (pandas, matplotlib, seaborn)** — Exploratory data analysis and visualization, reproducing core SQL/Power BI findings independently
 
 ---
 
@@ -27,7 +28,15 @@ This project analyzes a retail dataset to identify key drivers of sales, custome
 ### 🔹 Profitability Analysis
 - Discount vs Profit relationship (scatter plot)  
 - Profit margin by sub-category  
-- Identification of loss-making products and categories  
+- Identification of loss-making products and categories
+
+ ## Multi-Tool Workflow
+
+This project demonstrates the same analysis across two toolchains:
+- **SQL + Power BI**: Stakeholder-facing interactive dashboard (3 pages, 12+ visuals)
+- **Python (pandas/matplotlib/seaborn)**: Independent exploratory analysis notebook — see `/python`
+
+Both approaches converge on the same business insights, validating findings across tools.
 
 ---
 
